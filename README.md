@@ -28,7 +28,7 @@
 - [VuePress集成Gitalk](https://github.com/JoeyBling/vuepress-plugin-mygitalk)
 
 ### 关于我
-- [技术笔记](https://viptvx.gitee.io/)
+- [技术笔记](https://viptvx.github.io/)
 
 
 
