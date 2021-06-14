@@ -2,8 +2,8 @@
   <img src="https://viptv.work/images/VIPTV-LOGO-LONG-FINAL%401x-600x175.png" >
 </p>
 
-# VIPTV - 工作室
-**<h2>本工作室由多个资深站长自由组建的,主要以ThinkPHP为基础开发后端,VueJs框架为基础开发前端,为用户提供优质程序代码.多年来,我们一直坚持完善和迭代更新，在国内拥有领先的市场占有率和良好的用户口碑，相信是你值得信赖</h2>** 
+# VIPTV
+**<h2>对标聚合海量电视， 直播，影视，短片，音乐，小说，壁纸等资源</h2>** 
 
 ## [![VIPTV【云视听】交流群](https://img.shields.io/badge/VIPTV【云视听】QQ交流群-171418618-red.svg "VIPTV【云视听】")](https://jq.qq.com/?_wv=1027&k=HKHflNLw "VIPTV【云视听】")
 
