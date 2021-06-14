@@ -1,5 +1,5 @@
 <p style="text-align:center">
-  <img src="https://viptv.work/images/VIPTV-LOGO-LONG-FINAL%401x-600x175.png" >
+  <img src="https://viptv.work/27d65d220cc961f9f6159272571d2f9b.png" >
 </p>
 
 # VIPTV
