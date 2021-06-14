@@ -1,5 +1,5 @@
 <p style="text-align:center">
-  <img src="https://viptv.work/27d65d220cc961f9f6159272571d2f9b.png" >
+  <img src="https://viptv.work/92225df31b1271f57f95cd12f6a42813.png" >
 </p>
 
 # VIPTV
@@ -22,6 +22,8 @@
 - 🔧 &#160;![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+### 开发项目
+- [VIPTV-DEV](https://github.com/viptvx/dev) - 暂不开源
 
 ### 开源项目
 - [VuePress集成Live2D看板娘](https://github.com/JoeyBling/vuepress-plugin-helper-live2d)
