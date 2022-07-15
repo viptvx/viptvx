@@ -2,8 +2,8 @@
   <img src="https://viptv.work/92225df31b1271f57f95cd12f6a42813.png" >
 </p>
 
-# VIPTV
-**<h2>对标聚合海量电视， 直播，影视，短片，音乐，小说，壁纸等资源</h2>** 
+# DXTOP
+**<h2>对标聚合海量电视， 直播，影视，短片，音乐，小说，壁纸等资源的开发收藏</h2>** 
 
 ## [![VIPTV【云视听】交流群](https://img.shields.io/badge/VIPTV【云视听】QQ交流群-171418618-red.svg "VIPTV【云视听】")](https://jq.qq.com/?_wv=1027&k=HKHflNLw "VIPTV【云视听】")
 
@@ -23,14 +23,15 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 ### 开发项目
-- [VIPTV-DEV](https://github.com/viptvx/dev) - 暂不开源
+- [VIPTV_WORK](https://github.com/dxtop/viptv_work) - 暂不开源
+- [DEFUN_TOP](https://github.com/dxtop/defun_top) - 暂不开源
 
 ### 开源项目
 - [VuePress集成Live2D看板娘](https://github.com/JoeyBling/vuepress-plugin-helper-live2d)
 - [VuePress集成Gitalk](https://github.com/JoeyBling/vuepress-plugin-mygitalk)
 
 ### 关于我
-- [技术笔记](https://docs.viptv.work/)
+- [技术笔记](https://defun.top/)
 
 
 
