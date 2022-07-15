@@ -3,7 +3,7 @@
 </p>
 
 # DXTOP
-**<h2>对标聚合海量电视， 直播，影视，短片，音乐，小说，壁纸等资源的开发收藏</h2>** 
+**<h2>对标聚合iptv电视， 直播，影视，短片，音乐，小说，壁纸等资源的开发收藏</h2>** 
 
 ## [![VIPTV【云视听】交流群](https://img.shields.io/badge/VIPTV【云视听】QQ交流群-171418618-red.svg "VIPTV【云视听】")](https://jq.qq.com/?_wv=1027&k=HKHflNLw "VIPTV【云视听】")
 
