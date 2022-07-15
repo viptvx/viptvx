@@ -1,6 +1,7 @@
-<p style="text-align:center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dxtop&show_icons=true&theme=gruvbox_light" >
-</p>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=dxtop&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true&count_private=true" />
+
+### Hi, I'm dxtop👋
+>I am a frontEnd web developer from China.
 
 # DXTOP
 **<h2>对标聚合IPTV电视， 直播，影视，短片，音乐，小说，壁纸等资源的开发收藏</h2>** 
